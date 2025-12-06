@@ -16,6 +16,6 @@
 
 ##
 
-- 🔭 Hoje, estou em busca de uma vaga em Engenharia de Dados
-- 🌱 Estudando Python e SQL
+- 🔭 Hoje, estou em busca de uma vaga em Análise/Ciência de Dados
+- 🌱 Estudando Python, SQL e Estatística.
 
