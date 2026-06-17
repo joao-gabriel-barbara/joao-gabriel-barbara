@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Gabriel 👋
+# Olá! Eu sou o João Gabriel 🎲
 
 Estudante de Ciência da Computação (USJT, 5º semestre) com técnico em Desenvolvimento de Sistemas. Trabalho com análise de dados e machine learning usando Python e SQL. Busco estágio em Análise de Dados ou Ciência de Dados.
 
